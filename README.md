@@ -1,5 +1,7 @@
 # Data Explorer
 
+**Live site: https://excel-data-explorer.web.app**
+
 Upload an .xlsx file. The app reads the column names, works out each column's type (number, date, yes/no, text), and builds filters and sorting that fit those types. No formulas needed. Download the result as CSV.
 
     npm install
